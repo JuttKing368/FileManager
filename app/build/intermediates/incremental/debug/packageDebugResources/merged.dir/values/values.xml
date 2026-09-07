@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="ic_launcher_background">#3D5AFE</color>
+    <string name="app_name">File Manager</string>
+    <string name="card_duplicate_files">Duplicate Files</string>
+    <string name="card_empty_folders">Empty Folders</string>
+    <string name="card_junk_cleaner">Junk Cleaner</string>
+    <string name="card_large_files">Large Files</string>
+    <string name="card_private_vault">Private Vault</string>
+    <string name="card_recent_files">Recent Files</string>
+    <string name="category_apps">Apps</string>
+    <string name="category_archives">Archives</string>
+    <string name="category_audio">Audio</string>
+    <string name="category_documents">Documents</string>
+    <string name="category_images">Images</string>
+    <string name="category_other">Other</string>
+    <string name="category_videos">Videos</string>
+    <string name="nav_cleaner">Cleaner</string>
+    <string name="nav_files">Files</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_vault">Vault</string>
+    <string name="permission_grant">Grant Access</string>
+    <string name="permission_rationale_body">File Manager needs access to your files to let you browse, search, clean, and organize them. Nothing ever leaves your device.</string>
+    <string name="permission_rationale_title">Storage access needed</string>
+    <string name="storage_free">%1$s free</string>
+    <string name="storage_used_of_total">%1$s used of %2$s</string>
+    <string name="vault_locked">Locked</string>
+    <string name="vault_unlocked">Unlocked</string>
+    <style name="Theme.FileManagerApp" parent="Theme.Material3.DayNight.NoActionBar"/>
+</resources>
